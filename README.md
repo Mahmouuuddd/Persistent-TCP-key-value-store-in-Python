@@ -143,7 +143,7 @@ MIT License
 
 ## 👤 Author
 
-Your Name - [GitHub Profile](https://github.com/yourusername)
+Mahmoud Saqr Built for ITI NoSQL course project.
 
 ## 🙏 Acknowledgments
 
